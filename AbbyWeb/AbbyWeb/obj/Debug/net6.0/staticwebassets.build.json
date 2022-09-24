@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qgo4gqqaG7GRD9S7CJt1F13kEMziZHxS654B91yweN4=",
+  "Hash": "oPI/I0ZfO0lwnTaLrWJ9mpWeqLsfA9A3dRKEHrOY9F4=",
   "Source": "AbbyWeb",
   "BasePath": "_content/AbbyWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\source\\RazorPagesForASP_NET_Core\\AbbyWeb\\AbbyWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AbbyWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\source\\RazorPagesForASP_NET_Core\\AbbyWeb\\AbbyWeb\\wwwroot\\css\\bootswatch_cyborg.css",
+      "SourceId": "AbbyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\source\\RazorPagesForASP_NET_Core\\AbbyWeb\\AbbyWeb\\wwwroot\\",
+      "BasePath": "_content/AbbyWeb",
+      "RelativePath": "css/bootswatch_cyborg.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatch_cyborg.css"
     },
     {
       "Identity": "C:\\source\\RazorPagesForASP_NET_Core\\AbbyWeb\\AbbyWeb\\wwwroot\\css\\site.css",
