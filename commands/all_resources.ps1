@@ -1,3 +1,3 @@
-."commands\resource_group.ps1"
+."./resource_group.ps1"
 
-."commands\sql_db.ps1"
+."./sql_db.ps1"

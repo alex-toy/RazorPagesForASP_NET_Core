@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\source\RazorPagesForASP_NET_Core\AbbyWeb\AbbyWeb\obj\Release\net6.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\source\RazorPagesForASP_NET_Core\AbbyWeb\AbbyWeb\obj\Release\net6.0\win-x86\PubTmp\EFSQLScripts\AbbyWeb.Data.ApplicationDbContext.sql" />
+</sitemanifest>
